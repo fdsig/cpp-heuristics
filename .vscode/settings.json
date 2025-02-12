@@ -59,5 +59,8 @@
   "C_Cpp_Runner.msvcSecureNoWarnings": false,
   "files.insertFinalNewline": true,
   "notebook.insertFinalNewline": true,
-  "files.trimFinalNewlines": true
+  "files.trimFinalNewlines": true,
+  "files.associations": {
+    "iostream": "cpp"
+  }
 }
